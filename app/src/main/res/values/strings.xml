@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkManager</string>
+    <string name="request_permissions">Es necesario otorgar los permisos</string>
+</resources>
